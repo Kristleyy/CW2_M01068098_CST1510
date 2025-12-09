@@ -1,0 +1,22 @@
+dataset_id,name,description,source_department,file_format,size_mb,row_count,column_count,uploaded_by,upload_date,last_accessed,quality_score,status,storage_location
+DS001,Customer Transactions Q3,Quarterly customer transaction records,Finance,CSV,245.5,1250000,18,alice.wong,2024-09-15,2024-10-28,92.5,Active,/data/finance/transactions_q3.csv
+DS002,Network Traffic Logs,Daily network traffic and bandwidth logs,IT,JSON,1024.0,5000000,25,bob.chen,2024-10-01,2024-10-30,88.0,Active,/data/it/network_logs.json
+DS003,Security Events Export,Exported security events from SIEM,Cybersecurity,CSV,512.3,2500000,32,john.smith,2024-10-05,2024-10-29,95.0,Active,/data/cyber/security_events.csv
+DS004,Employee Survey Results,Annual employee satisfaction survey,HR,XLSX,12.8,5000,45,mary.jones,2024-08-20,2024-09-15,78.5,Archived,/data/hr/survey_2024.xlsx
+DS005,Product Inventory,Current product inventory levels,Operations,CSV,89.2,150000,22,david.lee,2024-10-10,2024-10-30,96.0,Active,/data/ops/inventory.csv
+DS006,Marketing Campaign Data,Email campaign performance metrics,Marketing,CSV,34.7,75000,28,sarah.miller,2024-09-28,2024-10-25,85.5,Active,/data/marketing/campaigns.csv
+DS007,Legacy System Export,Data export from deprecated CRM,IT,XML,2048.5,8000000,55,bob.chen,2024-06-15,2024-07-01,62.0,Deprecated,/data/legacy/crm_export.xml
+DS008,Vulnerability Scan Results,Monthly vulnerability assessment data,Cybersecurity,JSON,156.8,500000,40,sarah.johnson,2024-10-20,2024-10-30,91.0,Active,/data/cyber/vuln_scan.json
+DS009,Customer Demographics,Customer demographic information,Marketing,CSV,78.4,250000,35,sarah.miller,2024-09-01,2024-10-28,87.5,Active,/data/marketing/demographics.csv
+DS010,Server Performance Metrics,Historical server performance data,IT,Parquet,890.2,10000000,48,mike.chen,2024-10-15,2024-10-30,94.5,Active,/data/it/server_metrics.parquet
+DS011,Financial Reports Archive,Archived financial statements,Finance,PDF,45.6,1200,12,alice.wong,2024-03-31,2024-04-15,82.0,Archived,/data/finance/reports_archive/
+DS012,Incident Response Logs,Detailed incident response documentation,Cybersecurity,JSON,234.1,750000,38,john.smith,2024-10-22,2024-10-30,89.0,Active,/data/cyber/ir_logs.json
+DS013,Website Analytics,Web traffic and user behavior data,Marketing,CSV,167.9,2000000,52,david.lee,2024-10-18,2024-10-30,93.0,Active,/data/marketing/analytics.csv
+DS014,Backup Verification Logs,System backup status and verification,IT,CSV,23.4,100000,15,bob.chen,2024-10-25,2024-10-30,98.0,Active,/data/it/backup_logs.csv
+DS015,Threat Intelligence Feed,External threat intelligence data,Cybersecurity,JSON,456.7,1500000,42,sarah.johnson,2024-10-28,2024-10-30,90.5,Active,/data/cyber/threat_intel.json
+DS016,Sales Pipeline Q4,Quarterly sales opportunity data,Sales,XLSX,56.3,25000,30,mary.jones,2024-10-01,2024-10-29,86.0,Active,/data/sales/pipeline_q4.xlsx
+DS017,Compliance Audit Trail,Regulatory compliance audit records,Legal,CSV,189.4,800000,28,alice.wong,2024-09-30,2024-10-20,97.0,Active,/data/legal/audit_trail.csv
+DS018,User Access Logs,System access and authentication logs,Cybersecurity,Parquet,1536.0,20000000,22,mike.chen,2024-10-26,2024-10-30,92.0,Active,/data/cyber/access_logs.parquet
+DS019,Deprecated Reports,Old reporting data scheduled for deletion,Finance,CSV,678.9,3000000,45,alice.wong,2024-01-15,2024-02-28,55.0,Deprecated,/data/archive/old_reports.csv
+DS020,IoT Sensor Data,Industrial IoT sensor readings,Operations,JSON,2567.8,50000000,18,david.lee,2024-10-29,2024-10-30,88.5,Active,/data/ops/iot_sensors.json
+

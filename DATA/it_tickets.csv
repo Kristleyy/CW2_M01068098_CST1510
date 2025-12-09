@@ -1,0 +1,32 @@
+ticket_id,title,description,category,priority,status,requester,assigned_to,created_at,first_response_at,resolved_at,resolution_time_hours,sla_met,department,satisfaction_rating
+TKT001,Cannot access email,Outlook not connecting to server,Email,High,Resolved,emma.wilson,tech_support_01,2024-10-01 08:30:00,2024-10-01 08:45:00,2024-10-01 10:00:00,1.5,Yes,Sales,5
+TKT002,Laptop running slow,Computer takes 10 minutes to boot,Hardware,Medium,Resolved,james.brown,tech_support_02,2024-10-01 09:15:00,2024-10-01 10:00:00,2024-10-02 14:30:00,29.25,No,Marketing,3
+TKT003,VPN connection failed,Cannot connect to corporate VPN from home,Network,High,Resolved,lisa.davis,tech_support_01,2024-10-02 07:00:00,2024-10-02 07:15:00,2024-10-02 08:30:00,1.5,Yes,Finance,5
+TKT004,Password reset request,Forgot password for SAP system,Account,Low,Resolved,michael.garcia,tech_support_03,2024-10-02 10:30:00,2024-10-02 11:00:00,2024-10-02 11:15:00,0.75,Yes,HR,4
+TKT005,Printer not working,Shared printer offline on 3rd floor,Hardware,Medium,Waiting for User,robert.martinez,tech_support_02,2024-10-03 11:00:00,2024-10-03 11:30:00,,,,Operations,
+TKT006,Software installation,Need Adobe Creative Suite installed,Software,Low,Resolved,jennifer.anderson,tech_support_01,2024-10-03 14:00:00,2024-10-04 09:00:00,2024-10-04 16:00:00,26.0,No,Marketing,4
+TKT007,Monitor flickering,External monitor has display issues,Hardware,Medium,Resolved,david.thomas,tech_support_03,2024-10-04 08:45:00,2024-10-04 09:30:00,2024-10-04 11:00:00,2.25,Yes,Engineering,5
+TKT008,Cannot print to PDF,PDF printer driver error,Software,Low,Waiting for User,susan.jackson,tech_support_02,2024-10-04 13:30:00,2024-10-04 14:00:00,,,,Finance,
+TKT009,Network drive access denied,Cannot access department shared drive,Network,High,Resolved,william.white,tech_support_01,2024-10-05 09:00:00,2024-10-05 09:10:00,2024-10-05 10:30:00,1.5,Yes,Legal,5
+TKT010,New employee setup,Setup laptop and accounts for new hire,Account,Medium,Resolved,hr_dept,tech_support_03,2024-10-05 10:00:00,2024-10-05 14:00:00,2024-10-07 16:00:00,54.0,No,HR,3
+TKT011,Outlook calendar sync,Calendar not syncing with mobile,Email,Medium,In Progress,maria.rodriguez,tech_support_02,2024-10-06 08:00:00,2024-10-06 09:30:00,,,No,Sales,
+TKT012,Blue screen error,Computer crashes with BSOD frequently,Hardware,Critical,Resolved,christopher.lee,tech_support_01,2024-10-06 14:30:00,2024-10-06 14:35:00,2024-10-07 10:00:00,19.5,Yes,Engineering,4
+TKT013,Video call quality issues,Teams calls have poor audio/video,Software,High,Resolved,patricia.clark,tech_support_03,2024-10-07 10:15:00,2024-10-07 10:45:00,2024-10-07 12:30:00,2.25,Yes,Executive,5
+TKT014,Keyboard replacement,Laptop keyboard keys not working,Hardware,Medium,Waiting for User,daniel.lewis,tech_support_02,2024-10-07 15:00:00,2024-10-08 09:00:00,,,,Marketing,
+TKT015,Access to new system,Need access to project management tool,Account,Low,Resolved,nancy.walker,tech_support_01,2024-10-08 09:30:00,2024-10-08 10:00:00,2024-10-08 11:00:00,1.5,Yes,Operations,5
+TKT016,Slow internet connection,WiFi very slow in conference room B,Network,High,Resolved,kevin.hall,tech_support_03,2024-10-08 13:00:00,2024-10-08 13:15:00,2024-10-08 15:00:00,2.0,Yes,Sales,4
+TKT017,Excel crashing,Excel crashes when opening large files,Software,Medium,In Progress,betty.allen,tech_support_02,2024-10-09 08:30:00,2024-10-09 09:00:00,,,No,Finance,
+TKT018,Docking station issues,Laptop not detecting docking station,Hardware,Medium,Resolved,george.young,tech_support_01,2024-10-09 11:00:00,2024-10-09 12:00:00,2024-10-09 14:30:00,3.5,Yes,Engineering,4
+TKT019,Email not sending,Outbound emails stuck in outbox,Email,Critical,Resolved,sandra.king,tech_support_03,2024-10-10 07:30:00,2024-10-10 07:35:00,2024-10-10 08:15:00,0.75,Yes,Legal,5
+TKT020,Software license expired,AutoCAD license needs renewal,Software,High,Waiting for User,steven.wright,tech_support_02,2024-10-10 10:00:00,2024-10-10 10:30:00,,,,Engineering,
+TKT021,Backup restore request,Need files restored from backup,Software,Medium,Resolved,dorothy.lopez,tech_support_01,2024-10-11 09:00:00,2024-10-11 10:00:00,2024-10-12 11:00:00,26.0,No,Finance,3
+TKT022,Security token issues,RSA token not generating codes,Account,High,Resolved,paul.hill,tech_support_03,2024-10-11 14:30:00,2024-10-11 14:45:00,2024-10-11 16:00:00,1.5,Yes,Executive,5
+TKT023,Monitor not detected,Second monitor not recognized,Hardware,Low,Resolved,ruth.scott,tech_support_02,2024-10-12 08:00:00,2024-10-12 09:30:00,2024-10-12 10:30:00,2.5,Yes,Marketing,4
+TKT024,Cannot join Teams meeting,Error when joining external meetings,Software,High,In Progress,charles.green,tech_support_01,2024-10-12 13:45:00,2024-10-12 14:00:00,,,No,Sales,
+TKT025,Headset not working,USB headset not recognized,Hardware,Low,Waiting for User,sharon.adams,tech_support_03,2024-10-13 10:30:00,2024-10-14 09:00:00,,,,HR,
+TKT026,File server access,Need access to legal documents folder,Account,Medium,Resolved,ronald.nelson,tech_support_02,2024-10-13 15:00:00,2024-10-14 08:30:00,2024-10-14 10:00:00,19.0,No,Legal,4
+TKT027,Wireless mouse issues,Mouse cursor jumping erratically,Hardware,Low,Resolved,helen.carter,tech_support_01,2024-10-14 11:30:00,2024-10-14 12:00:00,2024-10-14 12:30:00,1.0,Yes,Operations,5
+TKT028,Email storage full,Mailbox quota exceeded warning,Email,Medium,Resolved,edward.mitchell,tech_support_03,2024-10-15 09:15:00,2024-10-15 10:00:00,2024-10-15 14:00:00,4.75,Yes,Marketing,4
+TKT029,Remote desktop issues,Cannot connect to office desktop remotely,Network,High,Resolved,margaret.perez,tech_support_02,2024-10-15 16:00:00,2024-10-15 16:15:00,2024-10-15 17:30:00,1.5,Yes,Finance,5
+TKT030,Application error,ERP system showing database error,Software,Critical,Waiting for User,joseph.roberts,tech_support_01,2024-10-16 08:00:00,2024-10-16 08:05:00,,,,Operations,
+

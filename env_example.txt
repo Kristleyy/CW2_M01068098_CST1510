@@ -1,0 +1,26 @@
+# Environment Variables for Multi-Domain Intelligence Platform
+# Copy this file to .env and fill in your actual values
+
+# ============================================
+# DOMAIN-SPECIFIC GEMINI API KEYS
+# ============================================
+# Each domain requires its own separate API key for security isolation.
+# Get your keys from: https://aistudio.google.com/app/apikey
+#
+# You can use the same key for all three if you prefer,
+# but separate keys provide better security isolation.
+
+# Cybersecurity Domain AI Assistant
+# - Can only access security incident data
+# - Can only answer cybersecurity-related questions
+GEMINI_API_KEY_CYBER=your_cybersecurity_gemini_api_key_here
+
+# Data Science Domain AI Assistant  
+# - Can only access dataset catalog/metadata
+# - Can only answer data governance questions
+GEMINI_API_KEY_DATA=your_datascience_gemini_api_key_here
+
+# IT Operations Domain AI Assistant
+# - Can only access IT ticket data
+# - Can only answer IT operations questions
+GEMINI_API_KEY_IT=your_it_operations_gemini_api_key_here

@@ -1,0 +1,32 @@
+incident_id,title,description,threat_type,severity,status,assigned_to,created_at,resolved_at,resolution_time_hours,source_ip,target_system
+INC001,Suspicious Email Attachment,User reported email with malicious attachment,Phishing,High,Resolved,John Smith,2024-10-01 09:15:00,2024-10-01 14:30:00,5.25,192.168.1.105,EMAIL-SERVER-01
+INC002,Credential Harvesting Attempt,Fake login page detected on internal network,Phishing,Critical,Resolved,Sarah Johnson,2024-10-02 11:00:00,2024-10-03 16:00:00,29.0,10.0.0.55,WEB-SERVER-02
+INC003,Ransomware Alert,Potential ransomware signature detected,Malware,Critical,Open,John Smith,2024-10-03 08:45:00,,,,WORKSTATION-15
+INC004,CEO Impersonation Email,Business Email Compromise attempt targeting CFO,Phishing,High,Resolved,Mike Chen,2024-10-04 10:30:00,2024-10-04 18:45:00,8.25,external,EMAIL-SERVER-01
+INC005,Brute Force Attack,Multiple failed login attempts detected,Unauthorized Access,Medium,Resolved,Sarah Johnson,2024-10-05 14:20:00,2024-10-05 16:00:00,1.67,203.45.67.89,AUTH-SERVER-01
+INC006,Spear Phishing Campaign,Targeted phishing emails to finance department,Phishing,Critical,In Progress,John Smith,2024-10-06 09:00:00,,,external,EMAIL-SERVER-01
+INC007,Data Exfiltration Attempt,Unusual outbound data transfer detected,Data Breach,Critical,Open,Mike Chen,2024-10-07 16:30:00,,,10.0.0.78,FILE-SERVER-03
+INC008,Malicious Link in Email,User clicked suspicious link from unknown sender,Phishing,High,Resolved,Sarah Johnson,2024-10-08 11:15:00,2024-10-09 09:30:00,22.25,external,WORKSTATION-22
+INC009,SQL Injection Attempt,Malicious SQL queries in web application logs,Web Attack,High,Resolved,John Smith,2024-10-09 13:45:00,2024-10-09 17:00:00,3.25,45.67.89.123,WEB-SERVER-01
+INC010,Phishing Site Redirect,Internal DNS redirecting to phishing domain,Phishing,Critical,In Progress,Mike Chen,2024-10-10 08:00:00,,,10.0.0.1,DNS-SERVER-01
+INC011,Trojan Detected,Trojan horse malware found on workstation,Malware,High,Resolved,Sarah Johnson,2024-10-11 10:20:00,2024-10-11 15:45:00,5.42,192.168.1.45,WORKSTATION-08
+INC012,Fake Invoice Phishing,Fraudulent invoice email targeting accounts payable,Phishing,High,Open,John Smith,2024-10-12 09:30:00,,,external,EMAIL-SERVER-01
+INC013,Privilege Escalation,Unauthorized admin access attempt detected,Unauthorized Access,Critical,Resolved,Mike Chen,2024-10-13 14:00:00,2024-10-14 10:30:00,20.5,10.0.0.99,DC-SERVER-01
+INC014,QR Code Phishing,Malicious QR code in printed document,Phishing,Medium,Resolved,Sarah Johnson,2024-10-14 11:00:00,2024-10-14 13:30:00,2.5,external,WORKSTATION-33
+INC015,Cryptominer Infection,Cryptocurrency mining software detected,Malware,Medium,Resolved,John Smith,2024-10-15 15:30:00,2024-10-15 18:00:00,2.5,192.168.1.67,WORKSTATION-12
+INC016,Whaling Attack,Executive-targeted phishing email,Phishing,Critical,In Progress,Mike Chen,2024-10-16 08:45:00,,,external,EMAIL-SERVER-01
+INC017,DDoS Attack,Distributed denial of service on web servers,DDoS,Critical,Resolved,Sarah Johnson,2024-10-17 02:30:00,2024-10-17 06:00:00,3.5,multiple,WEB-SERVER-CLUSTER
+INC018,Voice Phishing Report,Employee reported suspicious phone call,Phishing,Low,Resolved,John Smith,2024-10-18 10:00:00,2024-10-18 10:30:00,0.5,external,PHONE-SYSTEM
+INC019,Zero-Day Exploit,Unpatched vulnerability exploitation attempt,Zero-Day,Critical,Open,Mike Chen,2024-10-19 09:15:00,,,unknown,APP-SERVER-02
+INC020,Smishing Campaign,SMS phishing targeting employee mobile devices,Phishing,High,Resolved,Sarah Johnson,2024-10-20 14:45:00,2024-10-21 09:00:00,18.25,external,MOBILE-DEVICES
+INC021,Credential Stuffing,Automated login attempts with leaked credentials,Unauthorized Access,High,Resolved,John Smith,2024-10-21 16:00:00,2024-10-21 19:30:00,3.5,178.62.45.89,AUTH-SERVER-01
+INC022,Phishing Training Failure,Multiple employees failed phishing simulation,Phishing,Medium,Open,Sarah Johnson,2024-10-22 08:00:00,,,internal,EMAIL-SERVER-01
+INC023,Insider Threat Alert,Unusual data access pattern by employee,Data Breach,High,In Progress,Mike Chen,2024-10-23 11:30:00,,,10.0.0.156,FILE-SERVER-01
+INC024,Email Spoofing,Spoofed executive email sent to vendors,Phishing,High,Resolved,John Smith,2024-10-24 09:00:00,2024-10-25 14:00:00,29.0,external,EMAIL-SERVER-01
+INC025,Watering Hole Attack,Compromised industry website targeting employees,Web Attack,Critical,Resolved,Sarah Johnson,2024-10-25 13:15:00,2024-10-26 11:00:00,21.75,compromised-site,PROXY-SERVER-01
+INC026,OAuth Phishing,Fake OAuth consent screen stealing tokens,Phishing,Critical,Open,Mike Chen,2024-10-26 10:30:00,,,external,CLOUD-APPS
+INC027,Adware Installation,Unwanted advertising software installed,Malware,Low,Resolved,John Smith,2024-10-27 14:00:00,2024-10-27 15:00:00,1.0,192.168.1.89,WORKSTATION-41
+INC028,Account Takeover,Employee email account compromised,Phishing,Critical,In Progress,Sarah Johnson,2024-10-28 07:30:00,,,external,EMAIL-SERVER-01
+INC029,Supply Chain Phishing,Phishing email impersonating vendor,Phishing,High,Resolved,Mike Chen,2024-10-29 11:00:00,2024-10-30 16:30:00,29.5,external,EMAIL-SERVER-01
+INC030,Calendar Invite Phishing,Malicious meeting invite with phishing link,Phishing,Medium,Resolved,John Smith,2024-10-30 09:45:00,2024-10-30 12:00:00,2.25,external,CALENDAR-SERVER
+
