@@ -373,4 +373,3 @@ if st.session_state.authenticated and st.session_state.user:
     logged_in_page()
 else:
     login_page()
-
